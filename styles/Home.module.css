@@ -10,3 +10,18 @@
   border: 1px solid #fff;
    
 }
+
+.btn {
+  font-size: 2rem;
+  margin: 20px;
+}
+
+.entrada {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+
+.entrada input {
+  font-size: 2rem;
+}
